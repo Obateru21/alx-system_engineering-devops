@@ -1,3 +1,2 @@
-#!/bin/bash pwd
-#!/bin/bash realpath
-#This is my code about displaying the contents list of your current directory. THe questio has been a little trick but l believe i will get through it
+#!/bin/bash
+pwd
